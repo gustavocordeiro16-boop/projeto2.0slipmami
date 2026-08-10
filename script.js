@@ -8,7 +8,8 @@ botoes.foreach (function (botao)}
    let texto = botao.queryselector(span);
    if( curtiu=== false)
      texto.textcontent++;
-     curtiu=true;
+     curtiu=clicado true;
      else 
      text.textContention
      curtiu = false ;
+     
